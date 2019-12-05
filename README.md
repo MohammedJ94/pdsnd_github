@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on Monday, ‎November ‎25, ‎2019 and the README file on Monday, ‎December ‎2, ‎2019
 
 ### Project Title
 Replace the Project Title
