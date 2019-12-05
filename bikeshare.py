@@ -23,9 +23,9 @@ def get_filters():
 
     # TO DO: get user input for month (all, january, february, ... , june)
     MONTH_LIST = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
-    month = input("\nPlease input a month from (January to June) or (All): ").lower()
+    month = input("\nPlease type a month you want to filter by and choose from January to June or type All: ").lower()
     while month not in MONTH_LIST:
-        month = input("\nSorry! Please try again by choosing a month from (January to June)!: ").lower()
+        month = input("\nSorry! Please try again by choosing a month from January to June!: ").lower()
 
 
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
