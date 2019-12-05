@@ -12,5 +12,8 @@ This project is about US Bikeshare Data which you can choose one of the three ma
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+sources that helped me in the project:
+https://github.com/Aritra96/bikeshare-project/blob/master/bikeshare.py
+https://github.com/synflyn28/udacity-bikeshare/blob/master/bikeshare_2.py
+https://github.com/scientificharsha/Udacity-DA_Nanodegree--US-BikeShare/blob/master/bikeshare.py
 
